@@ -12,7 +12,7 @@ Proyek ini adalah aplikasi Counter yang dibuat menggunakan _framework_ Flutter y
 - Membuat fitur **increment** dan **decrement** menggunakan StatefulWidget untuk satu counter.
 - Menambahkan validasi agar nilai counter tidak bisa kurang dari nol.
 
-### **Bagian 2: Manajemen State Global**
+### **Manajemen State Global**
 - Membuat kelas `GlobalState` untuk mengelola daftar counter dan properti terkait secara global.
 - Menggunakan **Provider** untuk menyebarkan state dan perubahan ke seluruh aplikasi.
 - Implementasi fitur:
@@ -20,7 +20,7 @@ Proyek ini adalah aplikasi Counter yang dibuat menggunakan _framework_ Flutter y
   - **Menghapus counter yang ada.**
   - **Memisahkan state untuk setiap counter dalam daftar global.**
 
-### **Bagian 3: UI dan Interaktivitas Lanjutan**
+### **UI dan Interaktivitas Lanjutan**
 - Memperkaya UI dengan fitur-fitur berikut:
   - **Warna Unik:** Setiap counter memiliki warna latar belakang yang berbeda.
   - **Ganti Warna:** Menambahkan dialog untuk mengubah warna counter.
