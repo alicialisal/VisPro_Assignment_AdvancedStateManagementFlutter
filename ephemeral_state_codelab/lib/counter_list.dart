@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:global_state/global_state.dart';
 import 'package:provider/provider.dart';
-
-import 'global_state.dart';
 
 class CounterList extends StatelessWidget {
   @override

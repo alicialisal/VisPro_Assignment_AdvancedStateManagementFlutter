@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:global_state/global_state.dart';
 import 'package:provider/provider.dart';
 
 import 'counter_list.dart';
-import 'global_state.dart';
 
 void main() {
   runApp(
     ChangeNotifierProvider(
-      create: (context) => GlobalState(),
+      create: (_) => GlobalState(), // Instantiate the GlobalState class here
       child: MyGlobalApp(),
     ),
   );
