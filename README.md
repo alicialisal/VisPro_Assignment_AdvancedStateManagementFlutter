@@ -2,7 +2,6 @@
 
 ---
 
-## **Ikhtisar**
 Proyek ini adalah aplikasi Counter yang dibuat menggunakan _framework_ Flutter yang menunjukkan bagaimana mengelola state secara **lokal** dan **global**, serta implementasi fitur-fitur UI yang canggih. Aplikasi ini mendukung beberapa counter, masing-masing dengan properti unik dan fungsi interaktif, sehingga cocok untuk mempelajari manajemen state dan pembuatan UI yang interaktif.
 
 ---
